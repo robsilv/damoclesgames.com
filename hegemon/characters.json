@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "roman-general.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 2,
+        "w": 88,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "gallic-warlord.png": {
+      "frame": {
+        "x": 0,
+        "y": 120,
+        "w": 104,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 7,
+        "w": 104,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "characters.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 104,
+      "h": 231
+    },
+    "scale": 1
+  }
+}
